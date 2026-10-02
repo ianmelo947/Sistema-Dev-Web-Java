@@ -24,4 +24,4 @@
 
 **Observações:**
 
-  Mesmo com o tema recebido sendo tecnologia, por ser muito abrangente, optamos por aprofundar na temática de agricultura voltada para uso funcional de trabalhadores da zona rural, mas que pode ser facilmente adaptado para uso urbano, como jardinagem residencial/comercial e usos pessoais como cuidados de plantas domésticas.
+  Mesmo com o tema recebido sendo tecnologia, por ser muito abrangente, optamos por aprofundar na temática de agricultura voltada para uso funcional de trabalhadores da zona rural devido já a familiaridade com tal tema, mas que pode ser facilmente adaptado para uso urbano, como jardinagem residencial/comercial e usos pessoais como cuidados de plantas domésticas.
