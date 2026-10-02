@@ -20,7 +20,7 @@
 
 ##  Como Executar
 
-  Por ser uma aplicação 100% Client-side (Front-end), a execução é imediata e não exige a instalação de dependências, banco de dados ou servidores locais.
+  Por ser uma aplicação 100% Client-side (Front-end), a execução é imediata e não exige a instalação de dependências, banco de dados ou servidores locais, necessitando talvez somente o uso da extensão Live Server para execução em VScode.
 
 **Observações:**
 
