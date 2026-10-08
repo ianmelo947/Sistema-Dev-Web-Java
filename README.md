@@ -7,9 +7,9 @@
   O sistema avalia as condições climáticas locais e cruza com uma base de dados de limites térmicos de diversas culturas (como milho, feijão, hortaliças, etc.) para sugerir as melhores práticas de manejo e alertar sobre climas extremos.
 
 ##  Desenvolvedores
-* Ian Melo
-* Rafael Rodrigues
-* João Matheus
+* Ian Melo de Souza - 01564577
+* Rafael Rodrigues - 01940979
+* João Matheus Lima Tenório - 01926906
 
 ##  Tecnologias Utilizadas
 
